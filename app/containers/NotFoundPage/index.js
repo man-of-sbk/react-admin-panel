@@ -8,5 +8,5 @@
 import React from 'react';
 
 export default function NotFound() {
-  return <h1>aaa</h1>;
+  return <h1>not found</h1>;
 }
